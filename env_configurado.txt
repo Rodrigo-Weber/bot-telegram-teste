@@ -1,0 +1,19 @@
+# Token do Bot do Telegram
+TELEGRAM_TOKEN=8403356080:AAHXS8gsXd6jYdSra_1uiHz0sPJZfvCnulk
+
+# Configurações do Banco de Dados
+DB_HOST=mysql
+DB_DATABASE=telegram_financas_bot
+DB_USER=root
+DB_PASSWORD=FinanceBot2024!
+
+# Configurações do Mercado Pago
+MERCADO_PAGO_ACCESS_TOKEN=APP_USR-759602526921954-082507-0fc45feda769868688acb72646b7a6d8-302693772
+PAYER_EMAIL=rodrigo.novais@live.com
+RECIPIENT_DISPLAY_NAME=Rodrigo Weber Silva Novaes
+OWNER_USER_ID=7287573737
+
+# Dados de Suporte
+SUPPORT_NAME=Rodrigo Weber
+SUPPORT_EMAIL=rodrigo.novais@live.com
+SUPPORT_PHONE=+55 (71) 98381-9052
